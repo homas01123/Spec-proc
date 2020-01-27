@@ -1,2 +1,2 @@
-# Spec-proc
-Matlab script to process SVC-HR-1024i spectroradiometer data and generate absolute reflectance 
+# spectral-proc
+Matlab implementation of FSF toolbox to generate absolute reflectance data with removal of noise using S-G smoothning, detector overlap and water vapor. To use these codes, one first needs to import FSF toolbox in their MATLAB enviroemnt. The code demonstrates the complete use of FSF toolbox with customization in detector overlap detection. The dataset used in the code is Soil spectra data obtained using SVC-HR-1024i Spectroradiometer in Meghalaya state of North-East India.
